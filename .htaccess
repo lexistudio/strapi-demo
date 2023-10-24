@@ -1,0 +1,7 @@
+PassengerNodejs /home/l/lomontin/.local/bin/node
+PassengerAppRoot /home/l/lomontin/ingane.ru/public_html
+PassengerAppType node
+PassengerAppEnv development
+RailsEnv development
+RackEnv development
+PassengerStartupFile server.js
